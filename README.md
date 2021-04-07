@@ -1,5 +1,7 @@
 # Walmart-Forecasting-Retail-Sales-Random-Forest
-Data wrangling techniques to clean the data and re-format for machine learning. Random Forest Model python. Kaggle competitions.  https://www.kaggle.com/c/m5-forecasting-accuracy 
+Data wrangling techniques to clean the data and re-format for machine learning. Random Forest Model python. Kaggle competition.  https://www.kaggle.com/c/m5-forecasting-accuracy 
+
+Time Series Analysis
 
 Files
 calendar.csv - Contains information about the dates on which the products are sold.
